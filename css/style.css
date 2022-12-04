@@ -1,15 +1,16 @@
 *{ 
-    font-family: 'Games', sans-serif;
-    /* src:url("./css/games/Games-Italic.ttf"); */
+    /* font-family: 'Games', sans-serif; */
+    font-family: "Audiowide", sans-serif;
+   
     box-sizing: border-box;
     
 }
-@font-face {
+/* @font-face {
     font-family: 'Games';
     font-style: normal;
     font-weight: 400;
     src: local('Games'), url('/css/games/Games-Italic.ttf') format('woff');
-}
+} */
 
 
 .hide{
